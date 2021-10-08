@@ -5,8 +5,7 @@
   
    ![Kaique Souza Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquesouzasantos&show_icons=true&theme=dark)
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesouzasantos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesouzasantos&layout=compact)](https://github.com/kaiquesouzasantos/github-readme-stats)
 
 ## Tecnologias que eu utilizo
 
