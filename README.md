@@ -3,10 +3,10 @@
 <div align="center">
   <a href="https://github.com/kaiquesouzasantos">
   
-   ![Kaique Souza Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquesouzasantos&show_icons=true&theme=dark)
+    ![Kaique Souza Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquesouzasantos&show_icons=true&theme=dark)
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesouzasantos&layout=compact&theme=dark)](https://github.com/kaiquesouzasantos/github-readme-stats)
-
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesouzasantos&layout=compact&theme=dark)](https://github.com/kaiquesouzasantos/github-readme-stats)
+  </a>
 ## Tecnologias que eu utilizo
 
 <div style="display: inline_block">
