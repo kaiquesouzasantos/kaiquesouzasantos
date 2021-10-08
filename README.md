@@ -1,11 +1,12 @@
 ## Olá! Eu sou o Kaique Souza Santos 🖐️
 
-<div align="center">
-  <a href="https://github.com/kaiquesouzasantos">
-  
-    ![Kaique Souza Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquesouzasantos&show_icons=true&theme=dark)
-  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesouzasantos&layout=compact&theme=dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
 ## Tecnologias que eu utilizo
 
