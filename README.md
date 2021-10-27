@@ -26,5 +26,3 @@
   <a href="mailto:kaiquesouzasantos905@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.facebook.com/kaique.souzasantos.790"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white></a>
 </div>
-
-  ![Snake animation](https://github.com/kaiquesouzasantos/kaiquesouzasantos/blob/output/github-contribution-grid-snake.svg)
