@@ -10,11 +10,13 @@
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="springboot" src="https://img.shields.io/badge/Spring_Boot-228B22?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img alt="spring" src="https://img.shields.io/badge/Spring-107C10?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="springboot" src="https://img.shields.io/badge/Spring_Boot-239120?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <br>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="sqlserver" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 #
