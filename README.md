@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-  <p align="center" width=100%>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00bfbf&width=435&lines=%3CHello+World+%F0%9F%8C%8E%F0%9F%91%8B%3E;%3CI'm+Kaique+Souza%3E" alt="Typing SVG" /></a>
-   </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=<Olá!+Meu+Nome+é+Kaique+Souza>;<Sou+Apaixonado+por+Back-End>;<Espero+Que+o+Conteúdo+Aqui+Presente+Te+Ajude>;<Seja+Bem-Vindo(a)!+:%29>)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquesouzasantos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kaique Souza Santos github stats" /> 
