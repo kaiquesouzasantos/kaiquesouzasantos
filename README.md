@@ -20,7 +20,7 @@
   <br><br>
 </div> 
  
-### Principais Habilidades:
+### Habilidades:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=107C10&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=239120&labelColor=0D1117)&nbsp;
@@ -28,15 +28,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge&logo=Hibernate&logoColor=239120&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/php-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp;
-
-### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117)&nbsp;
-![Intellij](https://img.shields.io/badge/intellij-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman&logoColor=white&labelColor=0D1117)&nbsp;
-
-### Outros Conhecimentos:
 ![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -46,5 +37,12 @@
 ![MICROSOFT_SQL SERVER](https://img.shields.io/badge/sql_server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![MONGO DB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+
+### Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117)&nbsp;
+![Intellij](https://img.shields.io/badge/intellij-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman&logoColor=white&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
