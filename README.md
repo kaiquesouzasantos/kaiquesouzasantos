@@ -36,6 +36,8 @@
 
 ### Outros Conhecimentos:
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26&labelColor=0D1117)&nbsp;
+![JUnit5](https://img.shields.io/badge/Junit5-0D1117?style=for-the-badge&logo=junit&logoColor=E34F26&labelColor=0D1117)&nbsp;
+![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=%43B02A&labelColor=0D1117)&nbsp;
 ![SpringSecurity](https://img.shields.io/badge/Spring_Security-0D1117?style=for-the-badge&logo=Spring-Security&logoColor=239120&labelColor=0D1117)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge&logo=Hibernate&logoColor=239120&labelColor=0D1117)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens&labelColor=0D1117)&nbsp;
