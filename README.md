@@ -12,6 +12,8 @@
   <br><br>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiquesouzasantos&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">  
  <a href="mailto:kaiquesouzasantos905@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC2927?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href = "https://www.facebook.com/kaique.souzasantos.790"><img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white></a>
