@@ -36,6 +36,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Railway](https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman&logoColor=white&labelColor=0D1117)&nbsp;
+![Jmeter](https://img.shields.io/badge/Jmeter-0D1117?style=for-the-badge&logo=Apache-JMeter&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### Outros Conhecimentos:
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26&labelColor=0D1117)&nbsp;
