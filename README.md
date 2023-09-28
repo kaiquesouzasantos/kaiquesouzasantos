@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaiquesouzasantos&style=for-the-badge&color=70a5fd">
+  <img src="https://komarev.com/ghpvc/?username=kaiquesouzasantos&style=for-the-badge&color=0f4cd1">
   <br><br>
   
   <img src="https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!>;<Eu+Sou+o+Kaique+Souza>;<Seja+Bem-Vindo(a)!+:%29>">
