@@ -22,7 +22,7 @@
   <br><br>
 </div> 
  
-### PRINCIPAIS HABILIDADES
+### ⭐ PRINCIPAIS HABILIDADES
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=107C10&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=239120&labelColor=0D1117)&nbsp;
@@ -30,7 +30,7 @@
 ![PHP](https://img.shields.io/badge/php-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### FERRAMENTAS
+### 🔨 FERRAMENTAS
 
 ![Intellij](https://img.shields.io/badge/intellij-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=0D1117)&nbsp;
@@ -43,7 +43,7 @@
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)&nbsp;
 ![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117)&nbsp;
 
-### OUTROS CONHECIMENTOS
+### 💻 OUTROS CONHECIMENTOS
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26&labelColor=0D1117)&nbsp;
 ![JUnit5](https://img.shields.io/badge/Junit5-0D1117?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=%43B02A&labelColor=0D1117)&nbsp;
