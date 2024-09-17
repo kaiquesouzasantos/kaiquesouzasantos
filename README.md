@@ -32,6 +32,10 @@
 
 ### 🔨 FERRAMENTAS
 
+![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117)&nbsp;
+![Miro](https://img.shields.io/badge/Miro-0D1117?style=for-the-badge&logo=Miro&logoColor=white&labelColor=0D1117)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=Notion&logoColor=white&labelColor=0D1117)&nbsp;
+![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0D1117?style=for-the-badge&logo=Azure_DevOps&logoColor=white&labelColor=0D1117)&nbsp;
 ![Intellij](https://img.shields.io/badge/intellij-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117)&nbsp;
@@ -41,7 +45,6 @@
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman&logoColor=white&labelColor=0D1117)&nbsp;
 ![Jmeter](https://img.shields.io/badge/Jmeter-0D1117?style=for-the-badge&logo=Apache-JMeter&logoColor=white&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### 💻 OUTROS CONHECIMENTOS
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26&labelColor=0D1117)&nbsp;
